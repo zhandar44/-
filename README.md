@@ -9,3 +9,11 @@
 char|2|1
 short|2|2
 int|4|4
+int*|4|8
+void*|4|8
+long int|4|8
+long long|8|8
+char*|4|8
+float|4|4
+double|8|8
+
